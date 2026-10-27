@@ -116,7 +116,7 @@ print(response.choices[0].message.content)
 The volume of a sphere with a radius of 5 units is approximately 523.6 cubic units.
 ```
 ### OUTPUT:
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/390edeb4-e670-4d97-a6cb-29283328db4b" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/c6965bf7-3f95-4831-9c16-a9fa75453101" />
 
 ### RESULT:
 Thus, the Python function for calculating the volume of a sphere was successfully designed and implemented using OpenAI's function-calling mechanism. The LLM identified the required function and passed the radius as an argument to the Python function, which calculated the volume accurately.
